@@ -1,0 +1,14 @@
+Auto attendence mechanism 
+
+Daily update
+Front end -- 
+             i) HTML,CSS,JS
+             ii)python using django
+Backend --
+          iJS with Mysql
+          ii) Python with Mysql
+As per name (Morning) the bar code is fetched for the DB and put the tick(indicaton for present)
+while leaving the class again keep ID asper the time no.of present peroids is calculated
+
+At every week the number of persent and days and periods is calculate and uploaded in the google excel sheet.
+keep in count of no.of absent days of an individual
